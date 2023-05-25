@@ -1,3 +1,32 @@
+*{
+    border-radius: 0px;
+  }
+  .btn-group .btn {
+    width: 40%;
+    margin: 1vw;
+    background-color: rgb(153, 216, 124);
+  }
+  .btn-group {
+    width: 100%;
+  }
 .nav-item a{
     color:whitesmoke;
 }
+.tarjetas{
+    width: 50vw;
+    margin: auto;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+.formulario{
+    width: 50vw;
+    margin: auto;
+    padding-bottom: 2vh;
+}
+#resultado{
+    background-color:rgb(188, 231, 255);
+    height: 8vh;
+    padding-left: 1vw;
+    padding-top: 2vh;
+}
+    
